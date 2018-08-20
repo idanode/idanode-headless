@@ -1,7 +1,7 @@
 {
   "name": "idanode-headless",
-  "description": "TrustNote headless wallet",
-  "author": "TrustNote",
+  "description": "IdaNode headless wallet",
+  "author": "IdaNode",
   "version": "0.1.0",
   "main": "start.js",
   "keywords": [
